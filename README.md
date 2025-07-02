@@ -22,6 +22,18 @@ I contributed the following patterns:
 - **State Pattern**: For animal behavioral states (Foraging, Hunting, Fleeing, etc.).
 - **Strategy Pattern**: For animal movement and feeding behaviors.
 
+**Files I Authored:**
+- `src/core/src/main/java/com/animalworld/animal/interactions/AnimalMediator.java`
+- `src/core/src/main/java/com/animalworld/animal/interactions/ConcreteAnimalMediator.java`
+- `src/core/src/main/java/com/animalworld/animal/traits/AnimalState.java`
+- `src/core/src/main/java/com/animalworld/animal/traits/FleeingState.java`
+- `src/core/src/main/java/com/animalworld/animal/traits/ForagingState.java`
+- `src/core/src/main/java/com/animalworld/animal/traits/HuntingState.java`
+- `src/core/src/main/java/com/animalworld/animal/traits/MovementBehavior.java`
+- `src/core/src/main/java/com/animalworld/animal/traits/FightMovement.java`
+- `src/core/src/main/java/com/animalworld/animal/traits/FlightMovement.java`
+- `src/core/src/main/java/com/animalworld/animal/traits/RandomMovement.java`
+
 ## How to Run
 1. Make sure you have Java and Gradle installed.
 2. Clone the repository.
