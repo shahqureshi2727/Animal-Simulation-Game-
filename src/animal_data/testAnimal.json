@@ -1,0 +1,13 @@
+{
+    "name": "testAnimal",
+    "movementRate": 1,
+    "visualRange": 1,
+    "size": 1,
+    "evolutionRate": 1,
+    "reproductionRate": 1,
+    "isHunter": true,
+    "isCannibal": false,
+    "textureFile" : "cow.png",
+    "nutritionalValue" : 1,
+    "feedingBehavior" : "Plants"
+}
